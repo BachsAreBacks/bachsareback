@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 
     class UserController
     {
@@ -8,4 +8,9 @@
             require './views/html/home_page.php';
         }
     }
-    
+?> -->
+
+
+<?php
+    echo "Bach"
+?>
